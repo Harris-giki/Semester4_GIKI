@@ -28,7 +28,7 @@ All resources are organized by course for easy navigation and quick access.
 | CE222L      | Computer Org. & Assembly Language Lab     | 1          | Co-req: CE222 |
 | CS232L      | Database Management Systems Lab           | 1          | Co-req: CS232 |
 
-Note: For the Lab Content, please navigate yourself to the specialized repository.
+Note: For the Lab Content, please navigate yourself to the specialized repository at my GitHub.
 
 ---
 

@@ -38,10 +38,8 @@ Note: For the Lab Content, please navigate yourself to the specialized repositor
 GIKI-CS-4th-Semester-Resources/
 │
 ├── CE222/        # Computer Organization & Assembly Language
-├── CE222L/       # Assembly Language Lab Resources
 ├── CS224/        # Formal Languages & Automata Theory
 ├── CS232/        # Database Management Systems
-├── CS232L/       # DBMS Lab Resources
 ├── ES205/        # Advanced Linear Algebra
 ├── HM211/        # Pakistan and Islamic Studies
 └── README.md     # You're here!

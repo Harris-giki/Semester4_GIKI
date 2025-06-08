@@ -47,7 +47,6 @@ GIKI-CS-4th-Semester-Resources/
 
 ---
 
-## 👨‍🎓 Purpose
 
 This repository is created to help future GIKIans and other students by:
 

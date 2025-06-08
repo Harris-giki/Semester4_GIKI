@@ -8,7 +8,7 @@ This repository contains a curated collection of academic materials used by Comp
 This repository includes:
 
 * 📘 **Books & Textbooks**
-* 📝 **Handwritten and Typed Notes**
+* 📝 **Handwritten Notes**
 * ✅ **Evaluation Materials** – Quizzes, Assignments, and Practice Tests
 * 📂 **Additional Resources** – Slides, Reference Papers, and Summaries
 
